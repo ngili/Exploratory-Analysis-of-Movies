@@ -4,4 +4,6 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
-/zippedData/im.db
+
+#ignore unzipped imdb file
+zippedData/im.db
