@@ -56,3 +56,9 @@ From the analysis done above, the following recommendations can be made to Micro
      - Drama - Clint Eastwood & Steven Soderbergh
      - Comedy - Noah Baumbach & Taika Waititi
      - Action - Matthew Vaughn & Zack Synder
+
+## 7. Repository Guide
+- The datasets used can be found [here](zippedData).
+- The images from the exploratory analysis can be found [here](Images).
+- The notebook for this project can be found [here](student.ipynb).
+- The presentation for this project can be found[here](presentation.pdf)
