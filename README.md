@@ -54,11 +54,11 @@ From the analysis done above, the following recommendations can be made to Micro
 3. R rated films are by far the most popular movies in the industry and Microsoft should focus on those.
 4. The best directors to attach to the popular genres are as follows:
      - Drama - Clint Eastwood & Steven Soderbergh
-     - Comedy - Noah Baumbach & Taika Waititi
-     - Action - Matthew Vaughn & Zack Synder
+     - Comedy - Noah Baumbach & Woody Allen
+     - Action - David Ayer & Zack Synder
 
 ## 7. Repository Guide
 - The datasets used can be found [here](zippedData).
 - The images from the exploratory analysis can be found [here](Images).
 - The notebook for this project can be found [here](student.ipynb).
-- The presentation for this project can be found[here](presentation.pdf)
+- The presentation for this project can be found [here](presentation.pdf)
