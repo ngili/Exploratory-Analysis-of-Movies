@@ -1,4 +1,4 @@
-# Phase 1 Project Description
+# Exploratory Analysis of Movies from Various Movie Aggregation Sites
 
 ## 1. Introduction
 
